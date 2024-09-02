@@ -1,0 +1,57 @@
+{
+  "name": "com.stresslevelzero.marrow.backlot",
+  "versions": {
+    "1.2.0": {
+      "name": "com.stresslevelzero.marrow.backlot",
+      "version": "1.2.0",
+      "displayName": "Marrow Backlot",
+      "description": "The Marrow Backlot for Marrow Content",
+      "unity": "2021.3",
+      "dependencies": {
+        "com.stresslevelzero.marrow.sdk": "1.2.0"
+      },
+      "keywords": [
+        "slz",
+        "stresslevelzero",
+        "marrow"
+      ],
+      "author": {
+        "name": "StressLevelZero",
+        "email": "contact@stresslevelzero.com",
+        "url": "http://www.stresslevelzero.com/"
+      },
+      "unityRelease": "16f1",
+      "hideInEditor": false,
+      "dist": {
+        "shasum": "fc6bf07b40e9dae83ea3d03b1b5defad316e11bc",
+        "tarball": "https://github.com/StressLevelZero/MarrowBacklot/releases/download/1.2.0/com.stresslevelzero.marrow.backlot-1-2-0.tar.gz"
+      }
+    },
+    "1.1.0": {
+      "name": "com.stresslevelzero.marrow.backlot",
+      "version": "1.1.0",
+      "displayName": "Marrow Backlot",
+      "description": "The Marrow Backlot for Marrow Content",
+      "unity": "2021.3",
+      "dependencies": {
+        "com.stresslevelzero.marrow.sdk": "1.1.0"
+      },
+      "keywords": [
+        "slz",
+        "stresslevelzero",
+        "marrow"
+      ],
+      "author": {
+        "name": "StressLevelZero",
+        "email": "contact@stresslevelzero.com",
+        "url": "http://www.stresslevelzero.com/"
+      },
+      "unityRelease": "16f1",
+      "hideInEditor": false,
+      "dist": {
+        "shasum": "376d27ea922553d34949b2dd9ebe14be981daf84",
+        "tarball": "https://github.com/StressLevelZero/MarrowBacklot/releases/download/1.1.0/com.stresslevelzero.marrow.backlot-1-1-0.tar.gz"
+      }
+    }
+  }
+}
