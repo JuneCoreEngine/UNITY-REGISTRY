@@ -20,8 +20,8 @@
       "unityRelease": "16f1",
       "hideInEditor": false,
       "dist": {
-        "shasum": "fc6bf07b40e9dae83ea3d03b1b5defad316e11bc",
-        "tarball": "https://github.com/StressLevelZero/MarrowBacklot/releases/download/1.2.0/com.stresslevelzero.marrow.backlot-1-2-0.tar.gz"
+        "shasum": "92da52595b656b6b56a87d0143ce790cac330a611fe4c276da10da6de389c3dd",
+        "tarball": "https://github.com/JuneCoreEngine/EchoEngine/releases/download/2.0.0/com.arparec.strata-2.0.0.tgz"
       }
     }
   }
