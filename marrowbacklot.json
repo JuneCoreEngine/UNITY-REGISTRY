@@ -1,0 +1,14 @@
+{
+  "objects": [
+    {
+      "package": {
+        "name": "com.stresslevelzero.marrow.backlot",
+        "version": "1.2.0",
+        "description": "The Marrow Backlot for Marrow Content",
+        "links": {
+          "npm": "marrowbacklot/com.stresslevelzero.marrow.backlot"
+        }
+      }
+    }
+  ]
+}
