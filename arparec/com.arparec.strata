@@ -1,0 +1,28 @@
+{
+  "name": "com.arparec.strata",
+  "versions": {
+    "2.0.0": {
+      "name": "com.arparec.strata",
+      "version": "2.0.0",
+      "displayName": "Strata Engine",
+      "description": "The official Strata Engine plugin for Unity.",
+      "unity": "2021.3",
+      "dependencies": {},
+      "keywords": [
+        "arparec",
+        "strata"
+      ],
+      "author": {
+        "name": "ArpaRec",
+        "email": "support@arparec.dev",
+        "url": "https://arparec.dev"
+      },
+      "unityRelease": "16f1",
+      "hideInEditor": false,
+      "dist": {
+        "shasum": "92da52595b656b6b56a87d0143ce790cac330a611fe4c276da10da6de389c3dd",
+        "tarball": "https://github.com/JuneCoreEngine/EchoEngine/releases/download/2.0.0/com.arparec.strata-2.0.0.tgz"
+      }
+    }
+  }
+}

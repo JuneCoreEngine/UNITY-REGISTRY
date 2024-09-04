@@ -1,0 +1,49 @@
+{
+  "name": "com.unity.render-pipelines.core",
+  "versions": {
+    "8148.0.3-1": {
+      "name": "com.unity.render-pipelines.core",
+      "description": "SLZ's Modified SRP Core",
+      "version": "8148.0.3-1",
+      "unity": "2021.2",
+      "displayName": "SLZ Core RP Library",
+      "hideInEditor": false,
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "author": {
+        "name": "StressLevelZero",
+        "email": "contact@stresslevelzero.com",
+        "url": "http://www.stresslevelzero.com/"
+      },
+      "dist": {
+        "shasum": "61de31a53659336ed3e2906cbfcfc9754c58cf70",
+        "tarball": "https://github.com/StressLevelZero/Custom-RenderPipelineCore/archive/16863e21e53f06f129a0285772f446e15d284b94.tar.gz"
+      }
+    },
+    "8148.0.3": {
+      "name": "com.unity.render-pipelines.core",
+      "description": "SLZ's Modified SRP Core",
+      "version": "8148.0.3",
+      "unity": "2021.2",
+      "displayName": "SLZ Core RP Library",
+      "hideInEditor": false,
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "author": {
+        "name": "StressLevelZero",
+        "email": "contact@stresslevelzero.com",
+        "url": "http://www.stresslevelzero.com/"
+      },
+      "dist": {
+        "shasum": "7fa8ac129d7bf26b3d97e42c10770057018ae5a3",
+        "tarball": "https://github.com/StressLevelZero/Custom-RenderPipelineCore/archive/72e4d27b328d7c0c257f2495876d0194d45bb30d.tar.gz"
+      }
+    }
+  }
+}
