@@ -6,7 +6,7 @@
         "version": "1.2.0",
         "description": "The Marrow Backlot for Marrow Content",
         "links": {
-          "npm": "marrowbacklot/com.stresslevelzero.marrow.backlot"
+          "npm": "com.stresslevelzero.marrow.backlot"
         }
       }
     }

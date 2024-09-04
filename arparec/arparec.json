@@ -1,0 +1,24 @@
+{
+  "objects": [
+    {
+      "package": {
+        "name": "com.arparec.strata",
+        "version": "2.0.0",
+        "description": "The official Strata Engine plugin for Unity.",
+        "links": {
+          "npm": "com.arparec.strata"
+        }
+      }
+    },
+	{
+      "package": {
+        "name": "com.arparec.hpmatfix",
+        "version": "1.0.0",
+        "description": "Fixes materials for the HPCOS BONELAB Mod.",
+        "links": {
+          "npm": "com.arparec.hpmatfix"
+        }
+      }
+    }
+  ]
+}
